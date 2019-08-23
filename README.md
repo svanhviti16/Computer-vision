@@ -21,7 +21,7 @@ Week 7 of the Akademy.AI bootcamp of summer 2019 was dedicated to computer visio
 #### 4. [Identifier for triangles, rectangles and polygons](https://github.com/svanhviti16/Computer-vision/blob/master/my_projects/Identify_shapes.ipynb)
 
 
-![img4](/img/shaoes_output.png)
+![img4](/img/shapes_output.png)
 
 
 #### 5. [Noise reducer for photos](https://github.com/svanhviti16/Computer-vision/blob/master/my_projects/Photo%20noise%20reducer.ipynb)
