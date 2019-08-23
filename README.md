@@ -28,10 +28,14 @@ Week 7 of the Akademy.AI bootcamp of summer 2019 was dedicated to computer visio
 
 ![img5](/img/girl.png)
 
-
-#### 6. [Meme generator](https://github.com/svanhviti16/Computer-vision/blob/master/my_projects/Meme%20generator.ipynb)
+#### 6. [Text enhancement](https://github.com/svanhviti16/Computer-vision/blob/master/my_projects/Text%20enhancement.ipynb)
 
 ![img6](/img/solong.png)
+
+
+#### 7. [Meme generator](https://github.com/svanhviti16/Computer-vision/blob/master/my_projects/Meme%20generator.ipynb)
+
+![img6](/img/recipe.crop.png)
 
 
 ### New Computer Vision skills, usages and importance
