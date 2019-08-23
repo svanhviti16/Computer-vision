@@ -1,4 +1,4 @@
-# Computer Vision Challenge
+# Computer Vision Week
 
 Week 7 of the Akademy.AI bootcamp of summer 2019 was dedicated to computer vision. Here is an overview of the week's projects and subjects.
 
