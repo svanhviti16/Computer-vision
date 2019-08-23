@@ -1,4 +1,4 @@
-# Computer Vision Challenge
+# Computer Vision Week
 
 Week 7 of the Akademy.AI bootcamp of summer 2019 was dedicated to computer vision. Here is an overview of the week's projects and subjects.
 
@@ -30,12 +30,15 @@ Week 7 of the Akademy.AI bootcamp of summer 2019 was dedicated to computer visio
 
 #### 6. [Text enhancement](https://github.com/svanhviti16/Computer-vision/blob/master/my_projects/Text%20enhancement.ipynb)
 
-![img6](/img/solong.png)
-
-
-#### 7. [Meme generator](https://github.com/svanhviti16/Computer-vision/blob/master/my_projects/Meme%20generator.ipynb)
-
 ![img6](/img/recipe.crop.png)
+
+#### 7. [Live Art Filter](https://github.com/svanhviti16/Computer-vision/blob/master/my_projects/Live_Art_Generator.ipynb)
+
+![img7](/img/outlines.jpg)
+
+#### 8. [Meme generator](https://github.com/svanhviti16/Computer-vision/blob/master/my_projects/Meme%20generator.ipynb)
+
+![img8](/img/solong.png)
 
 
 ### New Computer Vision skills, usages and importance
